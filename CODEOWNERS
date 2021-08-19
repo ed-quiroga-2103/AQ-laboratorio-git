@@ -1,0 +1,10 @@
+
+# Este comando settea a ambos usuarios como owners de todo el proyecto
+*	@ed-quiroga-21 @Guitarrunner
+
+# Estos comandos settean a ambos usuarios como owners de las rutas especificadas y de las demás rutas que contengan
+
+/api-gateway	@ed-quiroga-21 @Guitarrunner
+/frontend	@ed-quiroga-21 @Guitarrunner
+/java-rest-api	@ed-quiroga-21 @Guitarrunner
+/ml-library	@ed-quiroga-21 @Guitarrunner
